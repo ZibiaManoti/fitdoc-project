@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036350511727",
+    "project_id": "fitdocv2",
+    "storage_bucket": "fitdocv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036350511727:android:03d21953fcaa5e2d3bcb9a",
+        "android_client_info": {
+          "package_name": "com.example.fitdocv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036350511727-b7o58umd71mbsp5ij1g2agcrlqmeeq31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitdocv2",
+            "certificate_hash": "59aa053422cccd33407ecb4b78f832cc527d8d81"
+          }
+        },
+        {
+          "client_id": "1036350511727-nlmfbtmab1i415dtf1v9f794n0i0gnr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKi5rt3EwrCSzca2r_K5SF87ls5OoQGHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036350511727-nlmfbtmab1i415dtf1v9f794n0i0gnr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
