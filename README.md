@@ -1,1 +1,0 @@
-# fitdoc-project
